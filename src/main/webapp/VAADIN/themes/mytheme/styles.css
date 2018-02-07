@@ -18,6 +18,9 @@
  *
  * @group util
  */
+.blueicon .v-icon {
+    color: blue;
+}
 
 @-webkit-keyframes valo-animate-in-fade {
 		0% {
